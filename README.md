@@ -2,4 +2,4 @@
 
 ## Deployment Link
 
-https://yashburshe.com/airbnb-listings
+https://yashburshe.github.io/cs5610-airbnb-listings
